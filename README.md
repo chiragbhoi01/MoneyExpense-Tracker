@@ -6,7 +6,7 @@ A simple and responsive expense tracker application built with **Svelte** and **
 
 ## 🚀 Live Demo
 
-🔗 [Visit Expense Tracker](https://your-expense-tracker-demo-link.com)
+🔗 [Visit Expense Tracker](https://github.com/chiragbhoi01/Chirag-Portfolio/blob/main/README.md)
 
 ## 🛠️ Features
 
