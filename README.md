@@ -8,7 +8,7 @@ A simple and responsive expense tracker application built with **Svelte** and **
 
 ## 🚀 Live Demo
 
-🔗 [Visit Expense Tracker]([chirag-moneyexpense.vercel.app](https://money-expense-tracker-xi.vercel.app/))
+🔗 [Visit Expense Tracker](chirag-moneyexpense.vercel.app)
 
 ## 🛠️ Features
 
